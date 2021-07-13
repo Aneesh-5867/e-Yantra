@@ -48,11 +48,14 @@ To run use:
 roslaunch vitarana_drone task_1.launch record:=true rec_name:=task_1.bag 
 
 ```
-## Task 2
-The aim of this task is to pick a parcel and deliver it to its destination by:
-- Scanning the QR code and finding out the destination GPS co-ordinates.
-- Pick/Drop the parcel box.
-- Avoiding dynamic obstacles and planing the path.
+# Task 2
+## Problem Statement
+The aim of this task is to pick a parcel and deliver it to its destination<br>
+The Task 2 is divided into 3 sub tasks<br>
+- Task 2A - Scanning the QR code and finding out the destination GPS co-ordinates.
+- Task 2B - Pick/Drop the parcel box
+- Task 2C - Avoiding dynamic obstacles and planing the path
+
 To run use:
 
 ```python
