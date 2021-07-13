@@ -20,6 +20,8 @@ The competition consists of series of tasks, the final problem statement for the
 The objective of the task is to move the turtle inside the turtlesim window in a circle and stop at its initial location.
 Teams are supposed to do this by creating a nodes name, /node_turtle_revolve within a python script, node_turtle_revolve.py.<br>
 
+To run use:
+
 ```python
 roslaunch pkg_task0 task0.launch record:=true rec_name:=my_turtle.bag
 
@@ -38,7 +40,7 @@ The main task of position controller is to give the required drone orientation t
 
 ## Attitude Controller
 The main task of attitude controller is to keep the drone in the required orientation which is given by position controller. This is done by another PID controlled algorithm. After calculating the required PID values throttle is given to each motor of the drone so that it flies in the required orientation.These values are then converted to required PWM format that could be given to motors.<br>
-<b>NOTE: The signs infront of pitch,roll and yaw is given according to the structure of the drone,these may vary from one drone to other.</b>
+
 
 To run use:
 
