@@ -1,9 +1,9 @@
 # eYRC 2020-21: Vitaraṇa Drone (VD)
 ## eYRC:VD#1993
-Suryadevara Sai Aneesh 
-Shubham Lohiya 
-Harshit Gupta 
-Jay Sonawane
+Suryadevara Sai Aneesh  
+Shubham Lohiya    
+Harshit Gupta   
+Jay Sonawane  
 ## Problem Statement
 In urban streets, especially South Asian streets, clogged with automobiles, people, animals and markets, using typical modes of transport for delivery, such as cars and bikes, is slow and time consuming. Fortunately, enabled by progress in embedded systems, materials science and control systems, unmanned aerial vehicles (UAVs), have become widespread in the past couple of decades and provide a simpler and faster alternative to using terrestrial infrastructure!<br>
 
